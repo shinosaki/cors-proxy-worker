@@ -1,9 +1,6 @@
 # cors-proxy-worker
 Simple CORS Proxy.
 
-## Demo
-[`cors.lain.im`](https://cors.lain.im/)
-
 ## How to Use
 ```bash
 $ TARGET_URL=https://example.com
